@@ -1,13 +1,13 @@
 ﻿# Responsive-landing-page
 
-<h1>Özellikler</h1>
+<h1>Features</h1>
 
 <ul>
-<li>Kullanıcı dostu ve kullanıcı deneyimini iyileştiren bir tasarım</li>
+<li>A design that is user-friendly and improves the user experience</li>
 
-<li>Responsive bir tasarım ile farklı cihazlarda uyumlu çalışma</li>
+<li>Compatible with different devices with a responsive design</li>
 
-<li>Modern ve şık bir görünüm</li>
+<li>A modern and stylish look</li>
 </ul>
 
 HTML AND CSS USED
